@@ -1,0 +1,5 @@
+What is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Answer: Staging area is an area where the files are tracked from the untrack files and resides in the staging area and are ready to be commit. Where as all the files created in our local machine are treated as working directory where .git is created. 
+
+If some file which is in the staging area and are not commited then it will no more reside to staging area will go back to working directory. The most significant value which creates that its help in doing the tracking files which is in the local machine and which are in remote repository.

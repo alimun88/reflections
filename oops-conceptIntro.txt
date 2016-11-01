@@ -1,0 +1,34 @@
+OOPS concept in Java
+oops:
+To develop an application we use a programming language that follows one of the following concepts.
+1. procedure oriented concepts.
+2. object oriented concepts
+1. procedure oriented concepts:
+The application that are developed using procedure oriented concepts are based on procedures or functions.
+Drawbacks of procedure oriented concepts:
+i. The application that are developed using procedure oriented concept or difficult to maintain and difficult to debug.
+ii. The data in the applications that are developed using procedure oriented concepts is not secured.
+iii. The data in the applications that are developed using procedure oriented concepts is open and it can be accessed by the entire applications, this mechanism is not suitable for developing distributed applications.
+iv. In the procedure oriented languages lot of importance is given to the operations that perform on the data rather than to the data.
+Note: The procedure oriented language are also called as "Structured programming language".
+Ex: C, PASCAL, COBAL, FORTRAN etc..
+2. object oriented concept:
+The application that are developed using object oriented concepts give lot of importance to the security, they provide protection so that the data is not accessed by the unauthorized access.
+Ex: C++, JAVA, .NET etc...
+--> Even though c++ is called as object oriented language, but according to the programming language experts it is called as partially object oriented language because of the following reasons.
+i. An application in c++ can be developed without following the object oriented concepts. 
+ii. In c++ language Their is concept called friend functions using which we can access any data even though it is secured.
+-->The object oriented concepts are derived from the real world, from the life's of a human being so that the programming becomes simple.
+-->The programmer can understand the concepts easily and implement them without facing any difficulty.
+-->Using the object oriented concepts we can develop real time applications which are complex and large. Because the object oriented concepts are very strong.
+-->The object oriented concepts has very strong fundamentalsentities called as 'class or 'object'.
+-->A class is a specification of variables and methods .Where variables are used for storing the data and the methods are used for performing the operations.
+-->A class is a collection of common features of a group of objects.
+-->An object is anything that exists physically in the real world.
+-->A class does not exist physically but it is considered as a method or a blue print or a plan for creating the objects. We can create any number of objects for a class. Without a class we cannot create any object.
+-->An object is considered as an instance of a class. 
+The various object oriented concepts are. 
+1.Encapsulations
+2.Abstraction 
+3.Inheritance 
+4.polymorphism 
