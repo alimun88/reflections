@@ -1,0 +1,13 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Answer: in version control of new file and old file saved in two different file and when comparing these two file with diff only the new item added and the contentent which is deleted will be displayed. Hence the bug can be detected where it was through it.
+
+Ques: 2 How could having easy access to the entire history of a file make you a more effiecient  programmer in  the long term?
+
+Answer: If we keep the old version on file and keep saving all the verions that will keep a tracks of all changes chronologically, 
+then for the entire history of the file will give us the oppurtunity to locate the bug was actually manipulated.
+
+Ques: 3 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+While doing the manual savings its good that whenever we need we can save out works sometines after a long time passed and was not saved manually might have issues of loosing it. versions automatically saved gives the great chances not to loose anything. Saving small content commit is a good practice.

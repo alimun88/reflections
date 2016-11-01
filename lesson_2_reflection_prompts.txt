@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Answer: When we initiatize a repository by using git init it initializes an empty repository in the location where we want to create the directory.
+
+The purpose of this is to get ready to add files in the repository what ever we want to commit.
